@@ -25,7 +25,3 @@ Every image has the same four stacked panels (x-axis = tick index):
 ## Replication
 
 Plots produced by upstream analysis notebook from raw order-book tick data (not in this directory). Regenerate via `matplotlib` with bid/ask price+volume per tick.
-
-## Author
-
-Giorgio Cottini.
