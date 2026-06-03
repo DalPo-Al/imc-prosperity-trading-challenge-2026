@@ -28,7 +28,7 @@ In practice, the strategy exploited the mismatch between the payoff window and t
 
 ## Favourable Conditions
 
-An additional lucky condition was that the price of the underlying always oscillated between two fixed extremes, and at the beginning of round 4, it was very close to the upper one. This fact amplified the P&L of selling deep-ITM at round start.
+An additional lucky condition was that the price of the underlying always oscillated between two fixed extremes, and at the beginning of round 4, it was very close to the upper one. This fact amplified the P&L of selling deep-ITM options at round start.
 
 ## Authors
 
